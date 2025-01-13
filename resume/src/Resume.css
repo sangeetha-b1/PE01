@@ -1,0 +1,43 @@
+.resume {
+    background-color: rgba(189, 251, 4);
+    padding: 20px;
+    margin: 20px;
+    font-family: Arial, sans-serif;
+    width:210mm; 
+    height:297mm;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .resume .content {
+    max-width: 600px;
+    text-align: center;
+  }
+  
+  .resume h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .resume h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .resume p {
+    margin-bottom: 5px;
+  }
+  
+  .resume .section {
+    margin-bottom: 20px;
+  }
+  
+  .resume .no-bullets {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .resume .no-bullets li {
+    margin-bottom: 5px;
+  }
+  
